@@ -1,9 +1,0 @@
-conv 2 3 1 0
-relu 
-pool 2 3
-conv 2 3 1 0
-relu 
-pool 2 3
-flatten 
-fc 10
-softmax
