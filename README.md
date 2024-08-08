@@ -1,4 +1,4 @@
-# Assignment 4
+# Assignment 4 - CNN from Scratch
 
 This repository contains the final assignment of CSE 472: Machine Learning Sessional offered by the CSE Department of BUET.
 
